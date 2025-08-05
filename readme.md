@@ -11,3 +11,6 @@
 > + readme.txt
 > + step1_root.sh
 > + step2_root.sh
+
+## 备注
+20250805: 同步github和gitee
