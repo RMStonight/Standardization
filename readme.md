@@ -10,7 +10,9 @@
 附带文件：
 > + readme.txt
 > + step1_root.sh
-> + step2_root.sh
+> + step2_root_ssh.sh
+> + step7_ssh_welcome.sh
 
 ## 备注
-20250805: 同步github和gitee
+20250829: 修改 step7 的添加 ruinap-logo，改为使用 step7_ssh_welcome.sh 的脚本文件
+20250805: 同步 github 和 gitee
