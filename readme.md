@@ -14,5 +14,6 @@
 > + step7_ssh_welcome.sh
 
 ## 备注
+20251128: docker 安装发生变动，原方法已失效
 20250829: 修改 step7 的添加 ruinap-logo，改为使用 step7_ssh_welcome.sh 的脚本文件
 20250805: 同步 github 和 gitee
